@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+hey guys!
+
+poisonFlower here,I like code and learn Java recently.
+
+
